@@ -1,0 +1,51 @@
+{
+  "name": "targetedattacks",
+  "title": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 8203,
+      "schema": {
+        "fields": [
+          {
+            "name": "country_code",
+            "type": "string",
+            "description": "Country where the attacked took place"
+          },
+          {
+            "name": "md5",
+            "type": "string",
+            "description": "Hash of the file related to the attack"
+          },
+          {
+            "name": "c2",
+            "type": "string",
+            "description": "Domain or IP address related to the attack"
+          },
+          {
+            "name": "family",
+            "type": "string",
+            "description": "Name of the malware family related to the attack"
+          },
+          {
+            "name": "reference",
+            "type": "string",
+            "description": "Reports or articles that reference this attack"
+          },
+          {
+            "name": "target",
+            "type": "string",
+            "description": "Type of target"
+          }
+        ]
+      }
+    }
+  ],
+  "description": ""
+}
