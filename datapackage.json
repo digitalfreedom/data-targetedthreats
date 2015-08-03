@@ -16,7 +16,7 @@
           {
             "name": "country_code",
             "type": "string",
-            "description": "Country where the attacked took place"
+            "description": "Country where the attack took place"
           },
           {
             "name": "md5",
