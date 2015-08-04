@@ -1,46 +1,52 @@
 {
-  "name": "targetedattacks",
-  "description": "This is a list of malware and exploit samples involved in targeted attacks against civil society",
+  "name": "data-targetedthreats",
+  "title": "Targeted Threats",
   "homepage": "",
   "version": "0.1.0",
   "license": "PDDL-1.0",
   "resources": [
     {
+      "name": "targetedthreats",
       "path": "targetedthreats.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 10262,
       "schema": {
         "fields": [
           {
             "name": "country",
             "type": "string",
-            "description": "Country where the attack took place"
+            "description": ""
           },
           {
             "name": "md5",
             "type": "string",
-            "description": "Hash of the file related to the attack"
+            "description": ""
           },
           {
             "name": "c2",
             "type": "string",
-            "description": "Domain or IP address related to the attack"
+            "description": ""
           },
           {
             "name": "family",
             "type": "string",
-            "description": "Name of the malware family related to the attack"
+            "description": ""
           },
           {
             "name": "target",
             "type": "string",
-            "description": "Type of target"
+            "description": ""
           },
           {
             "name": "reference",
             "type": "string",
-            "description": "Reports or articles that reference this attack"
+            "description": ""
           }
         ]
       }
     }
   ],
+  "description": "Targeted attacks related to civil society",
+  "repository": "git://github.com/digitalfreedom/data-targetedthreats.git"
 }
