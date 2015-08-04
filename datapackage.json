@@ -1,16 +1,12 @@
 {
   "name": "targetedattacks",
-  "title": "",
+  "description": "This is a list of malware and exploit samples involved in targeted attacks against civil society",
   "homepage": "",
   "version": "0.1.0",
   "license": "PDDL-1.0",
   "resources": [
     {
-      "name": "data",
-      "path": "data.csv",
-      "format": "csv",
-      "mediatype": "text/csv",
-      "bytes": 8203,
+      "path": "targetedthreats.csv",
       "schema": {
         "fields": [
           {
@@ -47,5 +43,4 @@
       }
     }
   ],
-  "description": ""
 }
