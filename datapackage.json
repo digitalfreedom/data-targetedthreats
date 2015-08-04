@@ -10,7 +10,6 @@
       "path": "targetedthreats.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 10262,
       "schema": {
         "fields": [
           {
