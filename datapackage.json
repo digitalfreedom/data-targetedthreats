@@ -16,32 +16,32 @@
           {
             "name": "country",
             "type": "string",
-            "description": ""
+            "description": "Country where the attack took place"
           },
           {
             "name": "md5",
             "type": "string",
-            "description": ""
+            "description": "MD5 hash of the related file"
           },
           {
             "name": "c2",
             "type": "string",
-            "description": ""
+            "description": "Domain or IP address related to the attack"
           },
           {
             "name": "family",
             "type": "string",
-            "description": ""
+            "description": "Name of the malware family related to the attack"
           },
           {
             "name": "target",
             "type": "string",
-            "description": ""
+            "description": "Type of target of the attack"
           },
           {
             "name": "reference",
             "type": "string",
-            "description": ""
+            "description": "Report or article referencing the attack"
           }
         ]
       }
