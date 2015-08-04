@@ -10,7 +10,7 @@
       "schema": {
         "fields": [
           {
-            "name": "country_code",
+            "name": "country",
             "type": "string",
             "description": "Country where the attack took place"
           },

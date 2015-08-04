@@ -1,4 +1,4 @@
-country_code,md5,c2,family,reference,target
+country,md5,c2,family,reference,target
 SY,41a2159b94c6883f03d2d901428a5891,216.6.0.28,XtremeRAT,https://www.f-secure.com/weblog/archives/00002356.html,
 SY,fb6e419e0fd9c2f39be43bcadbd2879f,216.6.0.24,XtremeRAT,https://www.f-secure.com/weblog/archives/00002356.html,
 SY,bc403bef3c2372cb4c76428d42e8d188,,DarkComet,https://www.eff.org/deeplinks/2012/05/trojan-hidden-fake-revolutionary-documents-targets-syrian-activists,
@@ -16,6 +16,20 @@ SY,2ba789458781b1dfd7f34624c8410edb,,,https://citizenlab.org/2013/06/a-call-to-h
 SY,59c6e0fa61d62a1f52b6092dc92a4aa7,,,https://citizenlab.org/2013/06/a-call-to-harm/,
 SY,61a26c391aa95084521f5c0f6f70b966,,,https://citizenlab.org/2013/06/a-call-to-harm/,
 SY,00cc589571fa6e078cb92b34ea2ee1cc,,,https://citizenlab.org/2013/06/a-call-to-harm/,
+SY,a8ef5ccebd2e3babdd243a2861673c26,aliahmahhmod.zapto.org,,http://syrianmalware.com/,
+SY,7263e1d84b350c1465bb4c4c77b1bcec,k002.kiwi6.com,,http://syrianmalware.com/,
+SY,28bf01f67db4a5e8e6174b066775eae0,31.9.48.141,njRAT,https://citizenlab.org/2014/03/maliciously-repackaged-psiphon/
+SY,a9e6f5d4c5996ff1a067d4c5f9ade821,31.9.48.7,DarkComet,http://syrianmalware.com/,
+SY,4141842e30edaf429309ea6bc2374ef5,31.9.48.7,DarkComet,http://syrianmalware.com/,
+SY,16a56e1288935b1696c701c1eed456ed,,,http://syrianmalware.com/,
+SY,185c8d11c0611cae7c81f4458bf1adea,awrasx10.no-ip.biz,,http://syrianmalware.com/,
+SY,7d867d6bd5fc3015a31fdfa121ba9187,,,https://www.eff.org/deeplinks/2012/04/new-wave-facebook-phishing-attacks-targets-syrian-activists,activist
+SY,79cdf420419a08f791752c759f8e0613,,DarkComet,https://www.eff.org/deeplinks/2012/05/fake-skype-encryption-tool-targeted-syrian-activists-promises-security-delivers,activist
+SY,8c9f9ccffbd2c888b9b5300412f8e580,,DarkComet,https://www.eff.org/deeplinks/2012/04/campaign-targeting-syrian-activists-escalates-with-new-surveillance-malware,activist
+SY,bb52415e659df7786b68d741a7a20162,meroo.no-ip.org,DarkComet,http://syrianmalware.com/,
+SY,2838bf29fe88edfd70d1cee4b8551c74,meroo.no-ip.org,DarkComet,http://syrianmalware.com/,
+SY,229af3e4f9dccc0497e7546c09790d50,meroo.no-ip.org,DarkComet,http://syrianmalware.com/,
+SY,919374a229038ab2a8752790709ff7fc,alosh66.no-ip.info,,http://syrianfreedom.org/some-quick-syrian-malware-analysis,activist
 VN,af170750a8228c9e5f21bfc35fc67721,yelp.webhop.org,,https://www.eff.org/deeplinks/2014/01/vietnamese-malware-gets-personal,
 VN,6e667d6c9e527ada1a3284aa333d954d,static.jg7.org,,https://www.eff.org/deeplinks/2014/01/vietnamese-malware-gets-personal,
 BH,ee5b03b5990dc310b77aac1d32da68de,,FinSpy,https://citizenlab.org/2012/07/from-bahrain-with-love-finfishers-spy-kit-exposed/,dissident
@@ -59,3 +73,7 @@ CN,971f99af0f9df674a79507ed7b3010fb,,LURK,https://citizenlab.org/2012/07/recent-
 CN,16160a6a9b905c69cb8e92c319212980,,LURK,https://citizenlab.org/2012/07/recent-observations/,tibetan
 CN,1c22ee3326affee30c3fa65f0b8413d5,,LURK,https://citizenlab.org/2012/07/recent-observations/,tibetan
 CN,8c06aec37c7e51f581aaa41f66d4ebad,,Surtr,https://citizenlab.org/2013/08/surtr-malware-family-targeting-the-tibetan-community/,tibetan
+HK,15e5143e1c843b4836d7b6d5424fb4a5,61.36.11.72,Xsser,https://malware.lu/articles/2014/09/29/analysis-of-code4hk.html,protesters
+HK,b9484ae3403c974db0f721b01bd6c302,61.36.11.72,Xsser,https://malware.lu/articles/2014/09/29/analysis-of-code4hk.html,protesters
+HK,d332164aded163d52302f157aae00390,cjleichijun.3322.org,Gh0st,,protesters
+
