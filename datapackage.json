@@ -30,14 +30,14 @@
             "description": "Name of the malware family related to the attack"
           },
           {
-            "name": "reference",
-            "type": "string",
-            "description": "Reports or articles that reference this attack"
-          },
-          {
             "name": "target",
             "type": "string",
             "description": "Type of target"
+          },
+          {
+            "name": "reference",
+            "type": "string",
+            "description": "Reports or articles that reference this attack"
           }
         ]
       }
