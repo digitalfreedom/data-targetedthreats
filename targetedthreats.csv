@@ -30,6 +30,7 @@ date,country,md5,c2,family,target,reference
 2012-01-01,SY,2838bf29fe88edfd70d1cee4b8551c74,meroo.no-ip.org,DarkComet,,http://syrianmalware.com/
 2012-01-01,SY,229af3e4f9dccc0497e7546c09790d50,meroo.no-ip.org,DarkComet,,http://syrianmalware.com/
 2012-04-01,SY,919374a229038ab2a8752790709ff7fc,alosh66.no-ip.info,,activist,http://syrianfreedom.org/some-quick-syrian-malware-analysis
+2014-12-01,SY,f8bfb82aa92ea6a8e4e0b378781b3859,,Unknown,activist,https://citizenlab.org/2014/12/malware-attack-targeting-syrian-isis-critics/
 2013-12-20,VN,af170750a8228c9e5f21bfc35fc67721,yelp.webhop.org,,,https://www.eff.org/deeplinks/2014/01/vietnamese-malware-gets-personal
 2013-02-23,VN,6e667d6c9e527ada1a3284aa333d954d,static.jg7.org,,,https://www.eff.org/deeplinks/2014/01/vietnamese-malware-gets-personal
 2012-05-08,BH,ee5b03b5990dc310b77aac1d32da68de,,FinSpy,dissident,https://citizenlab.org/2012/07/from-bahrain-with-love-finfishers-spy-kit-exposed/
@@ -79,4 +80,3 @@ date,country,md5,c2,family,target,reference
 2014-09-01,HK,d332164aded163d52302f157aae00390,cjleichijun.3322.org,Gh0st,protester,
 2014-01-01,YE,9372f0b8fca10de926fe5c6cbc38679d,88.150.227.197,IntelRS,activist,
 2013-04-01,AO,d43dec59fa8e6629ff46ae9e56f698d8,securitytable.org;docsforum.info,Kitmos,journalist,https://www.f-secure.com/weblog/archives/00002554.html
-2014-12-01,SY,f8bfb82aa92ea6a8e4e0b378781b3859,,Unknown,activist,https://citizenlab.org/2014/12/malware-attack-targeting-syrian-isis-critics/
