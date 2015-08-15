@@ -52,5 +52,5 @@
     }
   ],
   "description": "Targeted attacks related to civil society",
-  "repository": "git://github.com/digitalfreedom/data-targetedthreats.git"
+  "repository": "https://github.com/digitalfreedom/data-targetedthreats.git"
 }
