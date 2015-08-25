@@ -62,6 +62,8 @@ date,country,md5,c2,family,target,reference
 2015-05-06,CN,5730866b34ef589bd398c9a9b6d7e307,good.wha.la,PlugX,tibetan,https://citizenlab.org/2015/06/targeted-attacks-against-tibetan-and-hong-kong-groups-exploiting-cve-2014-4114/
 2015-05-06,CN,d839691657ca814be13d5c9c6511d6b2,good.wha.la,PlugX,tibetan,https://citizenlab.org/2015/06/targeted-attacks-against-tibetan-and-hong-kong-groups-exploiting-cve-2014-4114/
 2015-05-06,CN,03c900a1b115e759b32e4172dec52aa2,good.wha.la,PlugX,tibetan,https://citizenlab.org/2015/06/targeted-attacks-against-tibetan-and-hong-kong-groups-exploiting-cve-2014-4114/
+2015-03-31,HK,705147c509206151c22515ef568bac51,dnsupdate.dynamic-dns.net,PlugX,ngo,https://citizenlab.org/2015/06/targeted-attacks-against-tibetan-and-hong-kong-groups-exploiting-cve-2014-4114/
+2015-03-06,HK,8a18a13910838d08e38db80a08e15bd5,eset-windows.findhere.org,Wofeksad,ngo,https://citizenlab.org/2015/06/targeted-attacks-against-tibetan-and-hong-kong-groups-exploiting-cve-2014-4114/
 2015-03-05,CN,8346b50c3954b5c25bf13fcd281eb11a,122.10.117.152,MsAttacker,tibetan,https://citizenlab.org/2015/03/tibetan-uprising-day-malware-attacks/
 2015-03-05,CN,6fc909a57650daff9a8b9264f38444a7,122.10.117.152,MsAttacker,tibetan,https://citizenlab.org/2015/03/tibetan-uprising-day-malware-attacks/
 2015-03-05,CN,69a0f490de6ae9fdde0ad9cc35305a7d,122.10.117.152,MsAttacker,tibetan,https://citizenlab.org/2015/03/tibetan-uprising-day-malware-attacks/
